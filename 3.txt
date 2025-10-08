@@ -2,3 +2,7 @@ klkdflkjflk
 ddffd
 rgdfgdf
 dfgdff
+
+import 1
+
+1.abcv()
